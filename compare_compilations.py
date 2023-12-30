@@ -52,7 +52,7 @@ def verify_test_sample(test_json_path, tool_a, tool_b):
     # If we're here: everything's a-okay :)
 
 def compare_compilations(tool_a, tool_b):
-    for test_path in Path(settings.TEST_DIR).rglob("*.json"):
+    for test_path in Path(settings.TESTS_DIR).rglob("*.json"):
         if test_path.is_file():
             verify_test_sample(test_path, tool_a, tool_b)
 

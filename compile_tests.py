@@ -43,7 +43,7 @@ def walk_tests(emulator_tool_path, emulator_tool_name):
     # Grab *all* the things that need compiling ...
     test_samples = []
 
-    for test_path in Path(settings.TEST_DIR).rglob("*.json"):
+    for test_path in Path(settings.TESTS_DIR).rglob("*.json"):
         if test_path.is_file():
             test_samples.append(test_path)
 
