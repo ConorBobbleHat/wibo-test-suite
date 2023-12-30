@@ -1,0 +1,1 @@
+{"compiler": "mwcc_233_159", "compiler_flags": "-lang=c++ -O4,p -nodefaults -fp hard -inline auto", "source_code": "void __start(void) {\n    __init_registers();\n    __init_hardware();\n}\n", "context": "void __init_registers();\nvoid __init_hardware();\n", "diff_flags": ["-DIFFdifflib"], "diff_label": "__start", "libraries": []}

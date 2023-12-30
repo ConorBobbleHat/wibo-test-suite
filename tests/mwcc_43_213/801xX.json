@@ -1,0 +1,1 @@
+{"compiler": "mwcc_43_213", "compiler_flags": "-O4,p -nodefaults -fp hard -Cpp_exceptions off -enum int -inline auto", "source_code": "void fn_80049170(void);\n\nvoid fn_801C7A8C(int a) {\n    if(a) {fn_80049170();}\n}\n", "context": "", "diff_flags": [], "diff_label": "fn_801C7A8C", "libraries": []}

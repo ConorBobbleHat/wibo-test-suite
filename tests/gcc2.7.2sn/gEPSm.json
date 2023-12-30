@@ -1,0 +1,1 @@
+{"compiler": "gcc2.7.2sn", "compiler_flags": "", "source_code": "/*\nDecompilation failure:\n\nFailed to parse instruction at asm.s line 31: j $31\n*/\n\nvoid func(void) {\n    // ...\n}\n", "context": "", "diff_flags": [], "diff_label": "", "libraries": []}

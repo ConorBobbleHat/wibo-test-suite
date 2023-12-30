@@ -1,0 +1,3 @@
+[submodule "decomp.me"]
+	path = decomp.me
+	url = https://github.com/decompme/decomp.me

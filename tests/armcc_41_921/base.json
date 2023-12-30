@@ -1,0 +1,1 @@
+{"compiler": "armcc_41_921", "compiler_flags": "", "source_code": "int func(void) { return 5; }", "context": "", "diff_flags": [], "diff_label": "func", "libraries": []}

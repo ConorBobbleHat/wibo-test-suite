@@ -1,0 +1,1 @@
+{"compiler": "mwcc_233_159", "compiler_flags": "-lang=c++ -O4,p -nodefaults -fp hard -inline auto", "source_code": "extern s32 sda2Base;\nextern s32 _SDA_BASE_;\nextern s32 _stack_addr;\n\nvoid __init_registers(void) {\n\n}\n", "context": "", "diff_flags": [], "diff_label": ".fn __init_registers", "libraries": []}
